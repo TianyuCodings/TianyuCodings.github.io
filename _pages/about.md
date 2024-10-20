@@ -1,25 +1,39 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:  University of Texas at Austin; tianyuchen@utexas.edu
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p> White Sands, New Mexico </p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a second-year PhD student at the University of Texas at Austin, 
+supervised by Professor [Mingyuan Zhou](https://mingyuanzhou.github.io/). 
+Before joining UT, I obtained my master's degree in Statistics from the University of Chicago, 
+where I closely collaborated with [Kevin Bello](https://kevinsbello.github.io/), 
+[Bryon Aragam](https://www.bryonaragam.com/), [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/), 
+ [Francesco Locatello](https://www.francescolocatello.com/), 
+and supervised by Professor [Jingshu Wang](https://jingshuw.org/). 
+I earned my Bachelor's degree in Statistics from Fudan University, 
+where I spent some of the most memorable moments of my life.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Research Interests: I have broad research interests in statistical machine learning. 
+Specifically, my research interests lie in:
+
+- **Generative Models**: e.g., diffusion models, VAEs, and inverse problems.
+- **Reinforcement Learning**.
+- **Causal Inference**: e.g., graphical probabilistic models, causal representation learning.
+- **Statistical Sampling**: e.g., neural posterior sampling.
+- **Bioinformatics**: e.g., single-cell data and multi-omic data integration.
+
+I am open to Summer Internship 2025 opportunities. ☀️ Please don't hesitate to contact me if you see a good fit or have an opportunity for me. 📧
