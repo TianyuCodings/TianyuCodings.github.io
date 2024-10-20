@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-My person website is born!
+My personal website is born!
