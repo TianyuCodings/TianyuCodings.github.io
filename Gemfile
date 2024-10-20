@@ -16,6 +16,8 @@ group :jekyll_plugins do
     gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
+    gem "jekyll-paginate"
+    gem "jekyll-github-metadata"
 end
 group :other_plugins do
     gem 'httparty'
