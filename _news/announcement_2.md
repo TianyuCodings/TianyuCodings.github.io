@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-My personal website is born!
+Our new paper in using diffusion model to do simulation based inference is now online.

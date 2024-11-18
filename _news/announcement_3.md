@@ -5,4 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Our new paper **Conditional Diffusions for Neural Posterior Estimation** is submitted to AISTATS 2025 and will be publicly available on arXiv shortly.
+Our new paper **Enhancing and Accelerating Diffusion-Based Inverse Problem Solving through
+Measurements Optimization** design a new module that can be plugged to existing inverse solution, not only boost the performance to new
+SOTA but also only need no more than 100 NFEs.
