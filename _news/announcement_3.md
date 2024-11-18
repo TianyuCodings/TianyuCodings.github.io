@@ -6,5 +6,4 @@ related_posts: false
 ---
 
 Our new paper **Enhancing and Accelerating Diffusion-Based Inverse Problem Solving through
-Measurements Optimization** design a new module that can be plugged to existing inverse solution, not only boost the performance to new
-SOTA but also only need no more than 100 NFEs.
+Measurements Optimization**, introduces a novel module that can seamlessly integrate with existing inverse problem solvers. This module not only elevates performance to achieve new state-of-the-art results but also significantly reduces computational requirements, requiring no more than 100 NFEs.
