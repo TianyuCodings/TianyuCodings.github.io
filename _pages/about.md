@@ -30,8 +30,8 @@ where I spent some of the most memorable moments of my life.
 Research Interests: I have broad research interests in statistical machine learning. 
 Specifically, my research interests lie in:
 
-- **Generative Models**: e.g., diffusion models, VAEs, and inverse problems.
-- **Reinforcement Learning**.
+- **Generative Models**: e.g., diffusion models, distillation, VAEs, and inverse problems.
+- **Reinforcement Learning for LLM**: e.g. offline RL, online RL for training LLM.
 - **Causal Inference**: e.g., graphical probabilistic models, causal representation learning.
 - **Statistical Sampling**: e.g., neural posterior sampling.
 - **Bioinformatics**: e.g., single-cell data and multi-omic data integration.
