@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a second-year PhD student at the University of Texas at Austin, 
+I am a third-year PhD student at the University of Texas at Austin, 
 supervised by Professor [Mingyuan Zhou](https://mingyuanzhou.github.io/). 
 Before joining UT, I obtained my master's degree in Statistics from the University of Chicago, 
 where I closely collaborated with [Kevin Bello](https://kevinsbello.github.io/), 
@@ -30,10 +30,11 @@ where I spent some of the most memorable moments of my life.
 Research Interests: I have broad research interests in statistical machine learning. 
 Specifically, my research interests lie in:
 
-- **Generative Models**: e.g., diffusion models, VAEs, and inverse problems.
-- **Reinforcement Learning**.
-- **Causal Inference**: e.g., graphical probabilistic models, causal representation learning.
-- **Statistical Sampling**: e.g., neural posterior sampling.
-- **Bioinformatics**: e.g., single-cell data and multi-omic data integration.
+- **Generative Models**: diffusion models, model distillation, and controllable image editing.  
+- **Reinforcement Learning for LLM**: post-training for **both autoregressive (AR)** and **diffusion language models (dLLMs)**, focusing on reasoning enhancement and algorithm design.  
+- **Agentic AI** – constructing autonomous agents for data generation and multi-turn evaluation.  
+- **Statistical Sampling & Inference** – neural posterior sampling and hypothesis testing under uncertainty. 
 
-I am open to Summer Internship 2025 opportunities. ☀️ Please don't hesitate to contact me if you see a good fit or have an opportunity for me. 📧
+I am **actively seeking Summer 2026 Research Internship opportunities**, especially those at the intersection of  **generative AI and reinforcement learning**.  If my background aligns with your team’s focus, I would love to connect!  
+📧 *Feel free to reach out via email {tianyuchen@utexas.edu}.*
+

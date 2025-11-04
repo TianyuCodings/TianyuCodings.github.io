@@ -6,6 +6,17 @@
     - name: Languages
       value: English, Chinese
 
+- title: Industry Experience
+  type: time_table
+  contents:
+    - title: Research Scientist Intern
+      institution: Microsoft Research | Gen AI Post-train
+      year: Feb. 2025 – Present
+      description:
+        - "Mentors: Zhendong Wang, Lijuan Wang"
+        - Developed an object-centric vision-language model (VLM) agent that automates fine-grained, multi-turn image-editing evaluation, eliminating reliance on human annotators for benchmark construction. The project received <a href="https://mp.weixin.qq.com/s/jlVDWl7wJ8SGFcGdRG7wGA">media coverage in well-known Chinese outlets</a> and is showcased on the <a href="https://tianyucodings.github.io/EdiVAL-page/">project website</a>.
+        - Led large language model (LLM) post-training research on mathematical reasoning and LLM-as-a-judge alignment, including recipe design for <b>autoregressive</b> and <b>diffusion-based</b> language models.
+
 - title: Education
   type: time_table
   contents:
@@ -25,14 +36,14 @@
       description:
         - GPAs 3.7/4.0
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Deep generative models, especially Diffusions and VAEs
-    - title: Reinforcement learning
-    - title: Causal inference, graphical model and causal representation learning
-    - title: Statistical sampling
-    - title: Bioinformatics, single cell data and multi-omic data integration
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Deep generative models, especially Diffusions and VAEs
+#     - title: Reinforcement learning
+#     - title: Causal inference, graphical model and causal representation learning
+#     - title: Statistical sampling
+#     - title: Bioinformatics, single cell data and multi-omic data integration
 
 - title: Other Interests
   type: list

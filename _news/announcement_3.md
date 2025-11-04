@@ -1,10 +1,8 @@
 ---
 layout: post
-date: 2024-10-17 07:59:00-0400
+date: 2025-03-01 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Our new paper **Enhancing and Accelerating Diffusion-Based Inverse Problem Solving through
-Measurements Optimization** design a new module that can be plugged to existing inverse solution, not only boost the performance to new
-SOTA but also only need no more than 100 NFEs.
+Our new papers [**Denoising Score Distillation (DSD)**](https://arxiv.org/abs/2503.07578) and [**Restoration Score Distillation (RSD)**](https://arxiv.org/abs/2505.13377) propose a novel way to apply distillation methods on various corrupted data, including Fourier space MRI data. We prove that after distillation, we can further improve generative quality when only having access to corrupted data.
