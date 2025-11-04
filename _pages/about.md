@@ -35,6 +35,5 @@ Specifically, my research interests lie in:
 - **Agentic AI** – constructing autonomous agents for data generation and multi-turn evaluation.  
 - **Statistical Sampling & Inference** – neural posterior sampling and hypothesis testing under uncertainty. 
 
-I am **actively seeking Summer 2026 Research Internship opportunities**, especially those at the intersection of  **generative AI and reinforcement learning**.  If my background aligns with your team’s focus, I would love to connect!  
-📧 *Feel free to reach out via email {tianyuchen@utexas.edu}.*
+I am **actively seeking Summer 2026 Research Internship opportunities**, especially those at the intersection of  **generative AI and reinforcement learning**.  If my background aligns with your team’s focus, I would love to connect!  📧 *Feel free to reach out via email {tianyuchen@utexas.edu}.*
 

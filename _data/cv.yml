@@ -11,7 +11,7 @@
   contents:
     - title: Research Scientist Intern
       institution: Microsoft Research | Gen AI Post-train
-      year: Feb. 2025 – Present
+      year: 02/2025 – Now
       description:
         - "Mentors: Zhendong Wang, Lijuan Wang"
         - Developed an object-centric vision-language model (VLM) agent that automates fine-grained, multi-turn image-editing evaluation, eliminating reliance on human annotators for benchmark construction. The project received <a href="https://mp.weixin.qq.com/s/jlVDWl7wJ8SGFcGdRG7wGA">media coverage in well-known Chinese outlets</a> and is showcased on the <a href="https://tianyucodings.github.io/EdiVAL-page/">project website</a>.
