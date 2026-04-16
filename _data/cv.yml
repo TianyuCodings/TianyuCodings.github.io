@@ -9,9 +9,14 @@
 - title: Industry Experience
   type: time_table
   contents:
+    - title: Student Researcher
+      institution: Google DeepMind
+      year: 2026-now
+      description:
+        - Research in LLM post-training and alignment.
     - title: Research Scientist Intern
       institution: Microsoft Research | Gen AI Post-train
-      year: 02/2025 – Now
+      year: 02/2025 – 03/2026
       description:
         - "Mentors: Zhendong Wang, Lijuan Wang"
         - Developed an object-centric vision-language model (VLM) agent that automates fine-grained, multi-turn image-editing evaluation, eliminating reliance on human annotators for benchmark construction. The project received <a href="https://mp.weixin.qq.com/s/jlVDWl7wJ8SGFcGdRG7wGA">media coverage in well-known Chinese outlets</a> and is showcased on the <a href="https://tianyucodings.github.io/EdiVAL-page/">project website</a>.
@@ -36,14 +41,15 @@
       description:
         - GPAs 3.7/4.0
 
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Deep generative models, especially Diffusions and VAEs
-#     - title: Reinforcement learning
-#     - title: Causal inference, graphical model and causal representation learning
-#     - title: Statistical sampling
-#     - title: Bioinformatics, single cell data and multi-omic data integration
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: LLM post-training (RL and on-policy distillation)
+    - title: Image editing and automated evaluation
+    - title: Model distillation and generative models (Diffusions, VAEs)
+    - title: Causal inference, graphical models and causal representation learning
+    - title: Statistical sampling and neural posterior estimation
+    - title: Bioinformatics, single cell data and multi-omic data integration
 
 - title: Other Interests
   type: list
