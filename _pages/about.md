@@ -28,11 +28,10 @@ and supervised by Professor [Jingshu Wang](https://jingshuw.org/).
 I earned my Bachelor's degree in Statistics from Fudan University,
 where I spent some of the most memorable moments of my life.
 
-Research Interests: I work at the intersection of statistics and large-scale machine learning,
-with a focus on making LLMs and agents **reason, search, and evaluate** better through reinforcement learning.
+Research Interests: I build **reinforcement learning and distillation methods that make LLMs and multimodal agents reason, search, and evaluate reliably**, grounded in statistical rigor.
 
-- **LLM Post-Training with RL**: reinforcement learning and on-policy distillation for reasoning and alignment, for both autoregressive and diffusion language models.
-- **Agentic Search & Retrieval**: RL-trained autoregressive retrievers that plan multi-hop queries over million-scale corpora far beyond any context window.
-- **LLM-as-a-Judge & Automated Evaluation**: reward modeling and VLM-based agents for scalable, fine-grained evaluation of model outputs.
-- **Generative Models & Distillation**: diffusion and flow models, score distillation, and RL for multi-turn image editing.
-- **Statistical Foundations**: neural posterior estimation and hypothesis testing for trustworthy machine learning.
+- **RL for LLM post-training**: algorithms for reasoning and alignment in both autoregressive and diffusion LLMs, including regression-aware policy gradients for LLM-as-a-Judge ([REAL](https://arxiv.org/abs/2603.17145), ICML 2026) and data-efficient GRPO via difficulty-targeted selection and rollout replay ([NeurIPS 2025](https://arxiv.org/abs/2506.05316)).
+- **Reward design & agentic evaluation**: turning LLM/VLM judges, detectors, and rankers into trustworthy reward signals; e.g., [EdiVal-Agent](https://arxiv.org/abs/2509.13399) (ICLR 2026), an object-centric agent that autonomously synthesizes instructions and verifies multi-turn edits, and [MT-EditFlow](https://arxiv.org/abs/2606.01985), multi-turn RL with reward aggregation that resists reward hacking.
+- **Agentic search & test-time adaptation**: RL-trained autoregressive retrievers for multi-hop retrieval over million-scale corpora (Google DeepMind), and reusing ranking rewards as test-time state for frozen embedding models ([TTT-Embed](https://arxiv.org/abs/2608.12569)).
+- **Distillation beyond acceleration**: score and policy distillation as a mechanism to _improve_ models, from one-step policies for offline RL ([DTQL](https://arxiv.org/abs/2405.19690), NeurIPS 2024) to generative modeling from corrupted data ([ICLR 2026](https://arxiv.org/abs/2505.13377)) and causal estimation ([IWDD](https://arxiv.org/abs/2505.11444)).
+- **Statistical foundations for reliable ML**: finite-sample tests for validating neural posterior estimators and generative models ([CoLT](https://arxiv.org/abs/2507.17030), NeurIPS 2025 Spotlight; [Conformal C2ST](https://arxiv.org/abs/2507.17026), ICML 2026) and identifiability of causal mechanism shifts ([iSCAN](https://arxiv.org/abs/2306.17361), NeurIPS 2023).

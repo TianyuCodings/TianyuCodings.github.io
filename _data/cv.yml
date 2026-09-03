@@ -46,13 +46,11 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: LLM post-training (RL and on-policy distillation)
-    - title: Agentic search and multi-hop retrieval with autoregressive embedding models
-    - title: Image editing and automated evaluation
-    - title: Model distillation and generative models (Diffusions, VAEs)
-    - title: Causal inference, graphical models and causal representation learning
-    - title: Statistical sampling and neural posterior estimation
-    - title: Bioinformatics, single cell data and multi-omic data integration
+    - title: RL for LLM post-training (autoregressive and diffusion LLMs, LLM-as-a-Judge, data-efficient GRPO)
+    - title: Reward design and agentic evaluation (VLM agents, multi-turn image editing)
+    - title: Agentic search, multi-hop retrieval, and test-time adaptation of embedding models
+    - title: Distillation beyond acceleration (one-step policies, generative modeling from corrupted data, causal estimation)
+    - title: Statistical foundations for reliable ML (neural posterior estimation, two-sample tests, causal mechanism shifts)
 
 - title: Other Interests
   type: list
