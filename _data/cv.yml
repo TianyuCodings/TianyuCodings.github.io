@@ -10,17 +10,19 @@
   type: time_table
   contents:
     - title: Student Researcher
-      institution: Google DeepMind
-      year: 2026-now
+      institution: Google DeepMind | Gemini
+      year: 03/2026 – now
       description:
-        - Research in LLM post-training and alignment.
+        - "Mentor: Jiaxing Wu"
+        - Post-training the Gemini Embedding model for <b>agentic search</b>, turning it into an <b>autoregressive</b> retriever that iteratively issues queries and performs <b>multi-hop visual retrieval</b> over million-scale corpora that are far too large to fit into the model's context window.
+        - Designing the reinforcement learning (RL) algorithm that trains this retriever end-to-end from multi-hop retrieval outcomes, improving instruction following on compositional image retrieval tasks.
     - title: Research Scientist Intern
-      institution: Microsoft Research | Gen AI Post-train
+      institution: Microsoft Research | MAI Superintelligence
       year: 02/2025 – 03/2026
       description:
         - "Mentors: Zhendong Wang, Lijuan Wang"
-        - Developed an object-centric vision-language model (VLM) agent that automates fine-grained, multi-turn image-editing evaluation, eliminating reliance on human annotators for benchmark construction. The project received <a href="https://mp.weixin.qq.com/s/jlVDWl7wJ8SGFcGdRG7wGA">media coverage in well-known Chinese outlets</a> and is showcased on the <a href="https://tianyucodings.github.io/EdiVAL-page/">project website</a>.
-        - Led large language model (LLM) post-training research on mathematical reasoning and LLM-as-a-judge alignment, including recipe design for <b>autoregressive</b> and <b>diffusion-based</b> language models.
+        - Developed an object-centric vision-language model (VLM) agent that automates fine-grained, multi-turn image-editing evaluation, reducing reliance on human annotators for benchmark construction. The project received <a href="https://mp.weixin.qq.com/s/jlVDWl7wJ8SGFcGdRG7wGA">media coverage in prominent Chinese technology outlets</a> and is showcased on the <a href="https://tianyucodings.github.io/EdiVAL-page/">project website</a>.
+        - Led large language model (LLM) post-training research on mathematical reasoning, LLM-as-a-judge alignment, and on-policy distillation, including training-recipe development for <b>autoregressive</b> and <b>diffusion-based</b> language models.
 
 - title: Education
   type: time_table
@@ -45,6 +47,7 @@
   type: nested_list
   contents:
     - title: LLM post-training (RL and on-policy distillation)
+    - title: Agentic search and multi-hop retrieval with autoregressive embedding models
     - title: Image editing and automated evaluation
     - title: Model distillation and generative models (Diffusions, VAEs)
     - title: Causal inference, graphical models and causal representation learning

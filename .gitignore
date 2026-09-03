@@ -11,3 +11,5 @@ assets/libs/
 node_modules/
 vendor
 .idea
+# Local clone of resume repo, tracked separately
+Tianyu_resume/
