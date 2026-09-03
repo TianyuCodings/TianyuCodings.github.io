@@ -5,14 +5,14 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Tianyu
 middle_name:
 last_name: Chen
-email: you@example.com
+email: tianyuchen@utexas.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Tianyu Chen: PhD candidate in Statistics at UT Austin and Student Researcher at Google DeepMind,
+  working on reinforcement learning for LLM post-training, agentic search, and automated evaluation.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: Tianyu Chen, reinforcement learning, LLM post-training, agentic search, LLM-as-a-Judge, diffusion models, UT Austin, Google DeepMind
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ☀️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -40,7 +40,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -86,7 +86,7 @@ kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: # your LinkedIn user name
+linkedin_username: tianyu-chen-1a056a160 # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
 orcid_id: 0009-0009-2219-0099 # your ORCID ID
@@ -312,8 +312,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Chen]
+  first_name: [Tianyu, T.]
 
   style: apa
   locale: en

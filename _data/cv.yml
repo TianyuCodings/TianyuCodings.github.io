@@ -3,8 +3,16 @@
   contents:
     - name: Full Name
       value: Tianyu Chen
+    - name: Email
+      value: <a href="mailto:tianyuchen@utexas.edu">tianyuchen@utexas.edu</a>
+    - name: Location
+      value: Austin, TX
+    - name: Expected Graduation
+      value: May 2028
     - name: Languages
       value: English, Chinese
+    - name: Links
+      value: <a href="https://tianyucodings.github.io/">Website</a> · <a href="https://scholar.google.com/citations?user=8Aum3V8AAAAJ">Google Scholar</a> · <a href="https://github.com/TianyuCodings">GitHub</a> · <a href="https://www.linkedin.com/in/tianyu-chen-1a056a160/">LinkedIn</a>
 
 - title: Industry Experience
   type: time_table
@@ -42,6 +50,16 @@
       year: 2017-2021
       description:
         - GPAs 3.7/4.0
+
+- title: Honors & Awards
+  type: time_table
+  contents:
+    - title: Intern and Student Researcher Award
+      institution: Google DeepMind
+      year: 2026
+    - title: Spotlight Paper (CoLT)
+      institution: NeurIPS 2025
+      year: 2025
 
 - title: Academic Interests
   type: nested_list

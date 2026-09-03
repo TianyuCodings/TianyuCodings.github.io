@@ -1304,3 +1304,9 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
 }
+
+// One-line takeaway rendered under each publication's venue line
+.publications ol.bibliography li .tldr {
+  font-size: 0.9rem;
+  margin: 0.15rem 0 0.35rem;
+}

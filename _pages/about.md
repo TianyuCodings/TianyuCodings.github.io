@@ -16,15 +16,19 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a fourth-year PhD student at the University of Texas at Austin,
-supervised by Professor [Mingyuan Zhou](https://mingyuanzhou.github.io/).
-I am currently a Student Researcher at **Google DeepMind (Gemini)**,
-and was previously a Research Scientist Intern at **Microsoft Research (MAI Superintelligence)**.
-Before joining UT, I obtained my master's degree in Statistics from the University of Chicago,
-where I closely collaborated with [Kevin Bello](https://kevinsbello.github.io/),
-[Bryon Aragam](https://www.bryonaragam.com/), [Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/),
-[Francesco Locatello](https://www.francescolocatello.com/),
-and supervised by Professor [Jingshu Wang](https://jingshuw.org/).
+I am a fourth-year PhD candidate in Statistics at the University of Texas at Austin (expected graduation: May 2028),
+advised by Professor [Mingyuan Zhou](https://mingyuanzhou.github.io/), working on
+**reinforcement learning for LLM post-training, agentic search, and automated evaluation**.
+I am currently a Student Researcher at **Google DeepMind (Gemini)**, where I received the
+**2026 Intern and Student Researcher Award**, and was previously a Research Scientist Intern at
+**Microsoft Research (MAI Superintelligence)**.
+
+[Resume](/assets/pdf/Tianyu_resume.pdf) · [Google Scholar](https://scholar.google.com/citations?user=8Aum3V8AAAAJ) · [GitHub](https://github.com/TianyuCodings) · [LinkedIn](https://www.linkedin.com/in/tianyu-chen-1a056a160/) · [Email](mailto:tianyuchen@utexas.edu)
+
+Before UT, I obtained my master's degree in Statistics from the University of Chicago,
+supervised by Professor [Jingshu Wang](https://jingshuw.org/) and closely collaborating with
+[Kevin Bello](https://kevinsbello.github.io/), [Bryon Aragam](https://www.bryonaragam.com/),
+[Pradeep Ravikumar](https://www.cs.cmu.edu/~pradeepr/), and [Francesco Locatello](https://www.francescolocatello.com/).
 I earned my Bachelor's degree in Statistics from Fudan University,
 where I spent some of the most memorable moments of my life.
 
